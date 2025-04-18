@@ -1,0 +1,139 @@
+body {
+    background-color: blanchedalmond;
+    margin: 0px;
+}
+
+.Navi ul {
+    list-style: none;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    padding: 60px;
+    font-size: 1.2rem;
+}
+
+.Navi ul a {
+    text-decoration: none;
+    color: rgb(236, 213, 144);
+}
+
+.logo a {
+    padding: 0 20px;
+    border: 1px solid #fff;
+    position: absolute;
+    top: 40px;
+    left: 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 900;
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: rgb(236, 213, 144);
+}
+
+.Navi {
+    background-color: #2a2525;
+}
+
+.Visit h1 {
+    margin-top: 3%;
+    margin-left: 15%;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: underline;
+}
+
+.Benin {
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    margin: 20px auto;
+}
+
+.Benin img {
+    width: 100%;
+    height: 50%;
+    display: block;
+}
+
+.Cotonoutext {
+    bottom: 5%;
+    left: 5%;
+    position: absolute;
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: whitesmoke;
+}
+
+.Cotonoutext h2 {
+    margin: 0;
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Cotonoutext p {
+    margin: 10px 0 0;
+    font-size: 1rem;
+    line-height: 2;
+    font-family: 'Poppins', sans-serif;
+}
+
+.pied ul {
+    list-style: none;
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+    padding: 60px; 
+}
+
+footer {
+    background-color: #180803;
+    height: 200px;
+    margin-top: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.pied ul li {
+    display: flex;
+    text-decoration: none;
+    color: white;
+}
+
+.Point2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.Point3 {
+    position: relative;
+    background-color: rgb(212, 212, 175);
+    padding: 20px;
+    margin: 50px;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.Point3 h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.Point3 p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Luxe h1 {
+    margin-top: 3%;
+    margin-left: 15%;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: underline;
+}
+
+video {
+    width: 100%;
+    height: 45%;
+    display: block;
+}
