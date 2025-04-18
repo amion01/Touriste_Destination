@@ -79,7 +79,7 @@ ul li.active a{
     font-family: poppins sans-serif;
 }
 
-#p{
+p{
     text-transform: lowercase;
     text-orientation: sideways-right;
 }
